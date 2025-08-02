@@ -2,7 +2,7 @@
 
 I am a passionate CS student at Engineering and Technology University - VNU, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, AI amazing tools, exploring new articles about ML/AI, and sharing my insights with the community.
 
-![<minhnvm2307>'s Stats](https://github-readme-stats.vercel.app/api?username=<minhnvm2307>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<minhnvm2307>'s Stats](https://github-readme-stats.vercel.app/api?username=minhnvm2307&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -30,7 +30,7 @@ I am a passionate CS student at Engineering and Technology University - VNU, dri
 
 ## 📬 Get in Touch
 
-- Connect with me on [Linkedin](linkedin.com/in/NguyenVanMinh)
+- Connect with me on [Linkedin](https://linkedin.com/in/minh-nguyen-733a52322)
 - Read more of my articles on (coming soon web)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
