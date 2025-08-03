@@ -7,7 +7,7 @@ I am a passionate CS student at Engineering and Technology University - VNU, dri
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Bachelor's in Computer Science at UET-VNU.
-- 📝 I write in-depth, long-form articles on my website [minhnvm.github.io]([https://minnvm.dev](https://minhnvm2307.github.io/NVM_blog/includes/about.html)).
+- 📝 I write in-depth, long-form articles on my website [minhnvm.github.io](https://minhnvm2307.github.io/NVM_blog/includes/about.html).
 
 ## My Articles
 - Being empathetic by crafting some online articles
